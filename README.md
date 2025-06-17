@@ -1,5 +1,5 @@
 # Random Dad Jokes
-# By far my favourite from Udemy Python 3 Bootcamp class
+# By far my favourites from Udemy Python 3 Bootcamp class
 # From what I remember it was one of the final ones too
 # The purpose was to solidify my understanding of APIs and string manipulation
 
